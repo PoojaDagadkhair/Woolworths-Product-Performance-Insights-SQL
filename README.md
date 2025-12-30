@@ -41,7 +41,3 @@ This project analyzes a dataset of **24,000+ Woolworths product listings**, enri
 - Combining product and sales datasets to uncover **actionable insights**  
 - Identifying retail data issues like **duplicates and price gaps**  
 - Communicating SQL results effectively for **business storytelling and dashboards**  
-
----
-
-## 📁 Project Structure
