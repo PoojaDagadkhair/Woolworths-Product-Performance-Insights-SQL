@@ -51,8 +51,6 @@ The main objectives of this project are:
 - Writing optimized SQL queries using GROUP BY, JOIN, CTE, and WINDOW functions
 - Combining product and sales datasets to uncover business insights
 - Identifying retail data issues such as duplicate listings and pricing gaps
-- Communicating SQL results for dashboards and business reporting.
+- Communicating SQL results for dashboards and business reporting
 
 ---
-
-## 📁 Repository Structure
